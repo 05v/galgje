@@ -26,3 +26,5 @@ vijfde: C
 Yep, die zit er in!
 -------------------
 het woord is: SCHOOL
+**Dat is correct!**
+# Brian wint
