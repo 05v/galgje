@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|O|O|.|.|
+|.|.|.|O|O|.|
 |-|-|-|-|-|-|
 |1|2|3|4|5|6|
 
@@ -19,3 +19,4 @@ Nope, er is geen A
 derde: O
 Yep, die zit er in!
 -------------------
+Vierde: P
