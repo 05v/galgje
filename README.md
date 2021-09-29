@@ -7,7 +7,7 @@
 |1|2|3|4|5|6|
 
 ## Score
-![gallow](./images/3.png)
+![gallow](./images/4.png)
 
 ## Beurten
 eerste: E
@@ -20,3 +20,5 @@ derde: O
 Yep, die zit er in!
 -------------------
 Vierde: P
+Nope, er is geen P
+-------------------
