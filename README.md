@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|.|O|O|.|
+|.|C|.|O|O|.|
 |-|-|-|-|-|-|
 |1|2|3|4|5|6|
 
@@ -23,3 +23,5 @@ Vierde: P
 Nope, er is geen P
 -------------------
 vijfde: C
+Yep, die zit er in!
+-------------------
